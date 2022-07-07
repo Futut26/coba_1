@@ -7,6 +7,6 @@
     <title>Hallo Nama saya Putut</title>
 </head>
 <body>
-    
+    <p>Hallo aku adalah putut</p>
 </body>
 </html>
